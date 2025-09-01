@@ -6,6 +6,6 @@ How to start:
 
    start the game:
    1) print "start user user" (user - this is you; easy, medium, hard - computer level)
-   2) game will starts, print two integers <line> <column> separated with spase to add coordinates, X always starts.
+   2) game will starts, print two integers "line column" separated with spase to add coordinates, X always starts.
 
       Have a nice game!
